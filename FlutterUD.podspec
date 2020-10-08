@@ -9,7 +9,7 @@ FlutterUD module
  
   s.homepage         = 'https://github.com/romanpozd-tg17/flutter_ud'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '<YOUR NAME HERE>' => '<YOUR EMAIL HERE>' }
+  s.author           = { 'Roman Pozdnyakov' => 'roman.poz@tg-17.com' }
   s.source           = { :git => 'https://github.com/romanpozd-tg17/flutter_ud', :branch => 'master', :tag => s.version.to_s }
  
   s.ios.deployment_target = '10.0'
