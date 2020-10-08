@@ -13,6 +13,6 @@ FlutterUD module
   s.source           = { :git => 'https://github.com/romanpozd-tg17/flutter_ud', :branch => 'master', :tag => s.version.to_s }
  
   s.ios.deployment_target = '10.0'
-  s.source_files = 'flutter_ud/'
+  s.source_files = 'flutter_ud/*'
  
 end
